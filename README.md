@@ -1,7 +1,7 @@
 # ✈️ SAE Aircraft Design Project
 
 (<img width="480" height="360" alt="IMG_4856" src="https://github.com/user-attachments/assets/6fd1c150-568f-44e9-a5b5-fdbade006d71" />
-)
+
 
 ### Lead Empennage Design Engineer
 
