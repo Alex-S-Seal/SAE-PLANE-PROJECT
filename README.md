@@ -15,6 +15,9 @@ As Lead Empennage Design Engineer, I was responsible for the design, modeling, a
 
 In addition to empennage development, I contributed heavily to the aircraft's internal structural architecture, helping develop truss configurations, skeletal structures, and spar integration methods used throughout the airframe.
 
+<img width="378" height="504" alt="IMG_3338" src="https://github.com/user-attachments/assets/8f60103e-2de1-4167-b02c-a5381f1c8498" />
+
+
 ---
 
 ## Skills Demonstrated
